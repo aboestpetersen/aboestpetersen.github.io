@@ -48,13 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-MSc in Technology student at Aalborg University in Geoinformatics & experienced Geographic Information Systems Analyst with a demonstrated history of working in the government 
-administration industry. Proficient ESRI Desktop suite, ArcGIS Pro, ArcSDE, ArcGIS Online, AutoCAD, and SQL Server. Developed sUAS (Drone) program and policies from 
-inception that is leveraged across an entire organization and transformed the capacity to provide GIS support across a city. Leveraged aerial data and machine learning processes 
-to streamline workflows and increase efficiency. Built professional relationships with local airport administration while project managing and coordinating flights as well as 
-post-flight data processing and map creation. Successfully applied for Part 107.39 (Flight Operations Over Non-Active Participants) waiver from the FAA whilst also being the first 
-municipal government to be granted this waiver for mapping purposes. Experience with implementing and administering city-wide asset management software. Strong geography information 
-systems professional with a Bachelor of Arts - BA focused in Geographic Information Systems from The University of Texas at Austin. 
+  MSc in Technology student at Aalborg University in Geoinformatics & experienced Geographic Information Systems Analyst with a demonstrated history of working in the government administration industry. Proficient ESRI Desktop suite, ArcGIS Pro, ArcSDE, ArcGIS Online, AutoCAD, and SQL Server. Developed sUAS (Drone) program and policies from inception that is leveraged across an entire organization and transformed the capacity to provide GIS support across a city. Leveraged aerial data and machine learning processes to streamline workflows and increase efficiency. Built professional relationships with local airport administration while project managing and coordinating flights as well as post-flight data processing and map creation. Successfully applied for Part 107.39 (Flight Operations Over Non-Active Participants) waiver from the FAA whilst also being the first municipal government to be granted this waiver for mapping purposes. Experience with implementing and administering city-wide asset management software. Strong geography information systems professional with a Bachelor of Arts - BA focused in Geographic Information Systems from The University of Texas at Austin. 
 
 content:
   - title: Projects # Title for the section
