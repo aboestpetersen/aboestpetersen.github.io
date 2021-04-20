@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: City of Pfluger sUAS Program
+        title: City of Pflugerville sUAS Program
         link: https://alcalde.texasexes.org/2019/09/meet-the-alumnus-using-drones-to-implement-citywide-mapping-in-pflugerville/
         # link_text: Project Website
         #additional_links:
