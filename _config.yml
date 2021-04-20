@@ -69,7 +69,7 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Developed working sUAS (drone) program to collect data and provide stakeholders with rapid and accurate information across the city. Worked closely with local airport to
-          safely conduct flights in controlled airspace.
+          safely conduct flights in controlled airspace. Recipient of 2019 Innovation Award from the City of Pflugerville's City Manager's office for work done on this program.
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
