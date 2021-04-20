@@ -58,10 +58,10 @@ content:
         title: City of Pfluger sUAS Program
         link: https://alcalde.texasexes.org/2019/09/meet-the-alumnus-using-drones-to-implement-citywide-mapping-in-pflugerville/
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -139,7 +139,9 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Description.
+          Member of Planning and Surveying steering committee to provide feedback on previous semesters and guidance for upcoming semesters and coursework for Geoinformatics program 
+          at AAU. Designed and developed custom GIS web applications that utilized dynamic data and various programming languages to deliver clear products for end users. Conducted
+          study of the effects of sea level rise in Denmark which is currently being reviewed for academic publication.
 
       - layout: left
         title: The University of Texas at Austin
@@ -148,7 +150,7 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Description.
+          Built a strong foundation of geospatial and statistical analysis.
 
   - title: A Little More About Me
     layout: text
