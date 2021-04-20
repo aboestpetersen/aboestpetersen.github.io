@@ -55,8 +55,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: City of Pfluger sUAS Program
+        link: https://alcalde.texasexes.org/2019/09/meet-the-alumnus-using-drones-to-implement-citywide-mapping-in-pflugerville/
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -65,14 +65,40 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          Developed working sUAS (drone) program to collect data and provide stakeholders with rapid and accurate information across the city. Worked closely with local airport to
+          safely conduct flights in controlled airspace.
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: City of Pflugerville
+        link: pflugervilletx.gov
+        # link_text: pflugervilletx.gov
+        sub_title: GIS Intern
+        caption: August 2020 - April 2021
+        description: | # this will include new lines to allow paragraphs
+            Administer and provide support for city-wide asset management software (Cityworks). Design, build, and maintain custom GIS solutions for internal and external use. 
+            Update and maintain GIS data for city police dispatching software. Provide internal customer support. Map and maintain newly accepted public utilities data to be used 
+            across multiple software environments. Administer and provide support for ArcGIS Online platform for internal and external use.
+
+      - layout: left
+        title: City of Pflugerville
+        link: pflugervilletx.gov
+        # link_text: pflugervilletx.gov
+        sub_title: GIS Analyst
+        caption: December 2018 - August 2020
+        description: | # this will include new lines to allow paragraphs
+            Developed sUAS program and policies from inception that is leveraged across the entire organization and transformed the capacity to provide GIS support across the city. 
+            Built professional relationships with local airport administration while project managing and coordinating flights as well as post-flight data processing and map creation. 
+            Successfully applied for Part 107.39 (Flight Operations Over Non-Active Participants) waiver from the FAA whilst also being the first municipal government to be granted 
+            this waiver for mapping purposes. Implement and administer city-wide asset management (Cityworks) software. Design, build, and maintain custom GIS applications and 
+            solutions (such as dashboards, surveys, apps, and reports) for internal and external use to allow for efficient data consumption for non-GIS professionals. Member of city 
+            event-planning committee where we planned and hosted city-wide events to allow employees to get to know their coworkers and have fun.
+
       - layout: left
         title: City of Pflugerville
         link: pflugervilletx.gov
@@ -87,6 +113,20 @@ content:
             Assist with research and graphics related to demographics and other planning activities.
             Provide internal customer support.
             Scan and archive hardcopy information.
+
+      - layout: left
+        title: El Camino Real de los Tejas NHT Association
+        link: nps.gov/elte/index.htm
+        # link_text: nps.gov/elte/index.htm
+        sub_title: GIS Intern
+        caption: January 2018 - May 2018
+        description: | # this will include new lines to allow paragraphs
+            Digitize and georeference historic and modern maps.
+            Use ArcGIS to create clear and coherent maps and maintain geodatabases.
+            Design and implement interactive ESRI Story Map for public use on trail website.
+            Design maps for internal and external use.
+            Track progress and provide reports.
+            Handle administrative tasks.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
