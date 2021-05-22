@@ -75,6 +75,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: DHI GRAS
+        link: https://www.dhi-gras.com/
+        # link_text: https://www.dhi-gras.com/
+        sub_title: Junior Geoinformatics Specialist
+        caption: May 2021 - Current
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
         title: City of Pflugerville
         link: pflugervilletx.gov
         # link_text: pflugervilletx.gov
